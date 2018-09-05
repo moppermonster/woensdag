@@ -1,1 +1,1 @@
-print('Hello World')
+print (Vandaag is het woensdag)
